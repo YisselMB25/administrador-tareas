@@ -4,6 +4,7 @@
 
     <form method="POST" action="{{ route('login') }}">
         @csrf
+<h2 class="text-center text-2xl font-bold mb-4">Iniciar sesión</h2>
 
         <!-- Email Address -->
         <div>
