@@ -40,12 +40,12 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener lo siguiente ins
     Edita las siguientes variables según tu entorno, Esta BD ya esta desplegada:
 
     ```
-    DB_CONNECTION=mysql
-    DB_HOST=mysql-tareascrud.alwaysdata.net
-    DB_PORT=3306
-    DB_DATABASE=tareascrud_db
-    DB_USERNAME=427522
-    DB_PASSWORD=Tarea123
+    DB_CONNECTION=****
+    DB_HOST=****
+    DB_PORT=****
+    DB_DATABASE=****
+    DB_USERNAME=****
+    DB_PASSWORD=****
     ```
 
 6. **Genera la clave de la aplicación:**
