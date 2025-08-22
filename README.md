@@ -72,4 +72,4 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener lo siguiente ins
     ```
 
 Ahora puedes acceder a la aplicación en localhost
-> **Nota:** Si usas otro motor de base de datos, configura las variables correspondientes en el archivo
+
